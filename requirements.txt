@@ -9,4 +9,4 @@ scikit-learn
 torch
 torchvision
 torchsummary
-python-dotenv
+python-doten
